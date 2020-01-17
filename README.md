@@ -55,7 +55,8 @@ This repository accumulate courses, articles, books and videos devoted to the to
       - [Объектно-ориентированное Программирование в Python](https://python-scripts.com/object-oriented-programming-in-python) — article
       - [Regression Models Course Notes](http://sux13.github.io/DataScienceSpCourseNotes/7_REGMODS/Regression_Models_Course_Notes.html) — long practice article
       - [RGroup: Получение графа группы VK](https://alexeyknorre.ru/other/rmeetups/2018.12.1_RMeetup_VK_SNA.html) — long practice article
-      - [Изобретаем JPEG](https://habr.com/ru/post/206264/) — long practice article 
+      - [Изобретаем JPEG](https://habr.com/ru/post/206264/) — long practice article
+      - [Using Pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/?fbclid=IwAR2Yr0PoJlYD-gtTNvZLbVPezUHai10RMnQnrb1x4IBrg2SjziudHLa_Ai0) — long practice article
   - __Books__
       - [Торвальдс Л., Даймонд Д. Ради удовольствия,ЭКСМО-Пресс, М.: 2002](http://lmsh.edu.ru/files/Devid_Daymond_Linus_Torvalds_Just_for_fun_Ra.pdf)
       - [Канель-Белов А.Я., Ковальджи А.К. Как решают нестандартные задачи. 4-е изд., Cтереотип. М.: 2008. 96 с.](https://www.mccme.ru/free-books/olymp/KanKov.pdf)
