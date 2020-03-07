@@ -15,6 +15,7 @@ This repository accumulate courses, articles, books and videos devoted to the to
       - [Основы программирования на R](https://stepik.org/cert/229847?auth=registration) — 18 hours
       - [Введение в Linux](https://stepik.org/cert/269113?auth=registration) — 13 hours
       - [Linear algebra](https://www.khanacademy.org/math/linear-algebra) — 3 blocks
+      - [Python and data analysis basics](https://practicum.yandex.com/data-analyst) — 20 hours
    - __Articles__
       - [Principal component analysis explained simply](https://blog.bioturing.com/2018/06/14/principal-component-analysis-explained-simply/) — article
       - [Principal Component Methods in R: Practical Guide](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/) — article
@@ -31,6 +32,7 @@ This repository accumulate courses, articles, books and videos devoted to the to
       - [Специализация Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) — 4 courses
       - [Продвинутое машинное обучение](https://www.coursera.org/specializations/aml) — 4 courses
   - __Courses__
+      - [Основы статистики. Часть 3](https://stepik.org/course/2152) — 11 hours
       - [Анализ данных на Python в примерах и задачах](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7) — 12 lectures
       - [Differential Calculus](https://www.khanacademy.org/math/differential-calculus) — 6 blocks
       - [Differential equations](https://www.khanacademy.org/math/differential-equations) — 3 blocks
@@ -39,7 +41,6 @@ This repository accumulate courses, articles, books and videos devoted to the to
       - [Ликбез по дискретной математике](https://stepik.org/course/91) — 39 hours
       - [Математический анализ (часть 1)](https://stepik.org/course/716) — 24 hours
       - [Математический анализ (часть 2)](https://stepik.org/course/711) — 26 hours
-      - [Основы статистики. Часть 3](https://stepik.org/course/2152) — 11 hours
       - [Введение в базы данных](https://stepik.org/course/551) — 13 hours
       - [Python: основы и применение](https://stepik.org/course/512) — 26 hours
       - [Программирование на Python](https://stepik.org/course/67) — 23 hours
