@@ -15,6 +15,7 @@ This repository accumulate courses, articles, books and videos devoted to the to
       - [Основы программирования на R](https://stepik.org/cert/229847?auth=registration) — 18 hours
       - [Введение в Linux](https://stepik.org/cert/269113?auth=registration) — 13 hours
       - [Linear algebra](https://www.khanacademy.org/math/linear-algebra) — 3 blocks
+      - [Основы программирования на Python](https://vk.com/pythoncourse) — 12 lessons
       - [Python and data analysis basics](https://practicum.yandex.com/data-analyst) — 20 hours
    - __Articles__
       - [Principal component analysis explained simply](https://blog.bioturing.com/2018/06/14/principal-component-analysis-explained-simply/) — article
