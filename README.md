@@ -18,6 +18,7 @@ This repository accumulate courses, articles, books and videos devoted to the to
       - [Основы программирования на Python](https://vk.com/pythoncourse) — 12 lessons
       - [Python and data analysis basics](https://practicum.yandex.com/data-analyst) — 20 hours
    - __Articles__
+      - [Четвериков А. Линейные модели со смешанными эффектами в когнитивных исследованиях // Российский журнал когнитивной науки, 2015](https://drive.google.com/open?id=1YHGq2RBpFv9An78LHC5-_EhBvcUcpQhf) — article
       - [Principal component analysis explained simply](https://blog.bioturing.com/2018/06/14/principal-component-analysis-explained-simply/) — article
       - [Principal Component Methods in R: Practical Guide](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/) — article
       - [How to read PCA biplots and scree plots](https://blog.bioturing.com/2018/06/18/how-to-read-pca-biplots-and-scree-plots/) — article
