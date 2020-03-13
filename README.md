@@ -7,6 +7,12 @@ This repository accumulate courses, articles, books and videos devoted to the to
    - [Courses to finish](#courses-to-finish)
 
 ### <a name="completed-courses" />Completed courses
+   - __University Courses__
+      - Эконометрика (КНЭУ им. В. Гетьмана, Киев) — 108 hours
+      - Статистика (КНЭУ им. В. Гетьмана, Киев) — 144 hours
+      - Теория вероятности и математическая статистика (КНЭУ им. В. Гетьмана, Киев) — 180 hours
+      - Количественные методы (Европейский университет, СПб) — 11 lessons
+      
    - __Courses__
       - [Основы статистики. Часть 1](https://stepik.org/cert/160088?auth=registration) — 9 hours
       - [Основы статистики. Часть 2](https://stepik.org/cert/255383?auth=registration) — 23 hours
