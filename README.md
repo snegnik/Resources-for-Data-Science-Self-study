@@ -35,7 +35,6 @@ This repository accumulate courses, articles, books and videos devoted to the to
       - [Специализация Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) — 4 courses
       - [Продвинутое машинное обучение](https://www.coursera.org/specializations/aml) — 4 courses
   - __Courses__
-      - [Основы статистики. Часть 3](https://stepik.org/course/2152) — 11 hours
       - [Анализ данных на Python в примерах и задачах](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7) — 12 lectures
       - [Differential Calculus](https://www.khanacademy.org/math/differential-calculus) — 6 blocks
       - [Differential equations](https://www.khanacademy.org/math/differential-equations) — 3 blocks
