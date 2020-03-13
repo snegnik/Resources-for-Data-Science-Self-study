@@ -8,8 +8,9 @@ This repository accumulate courses, articles, books and videos devoted to the to
 
 ### <a name="completed-courses" />Completed courses
    - __Courses__
-      - [Основы статистики](https://stepik.org/cert/160088?auth=registration) — 9 hours
-      - [Основы статистики 2](https://stepik.org/cert/255383?auth=registration) — 23 hours
+      - [Основы статистики. Часть 1](https://stepik.org/cert/160088?auth=registration) — 9 hours
+      - [Основы статистики. Часть 2](https://stepik.org/cert/255383?auth=registration) — 23 hours
+      - [Основы статистики. Часть 3](https://stepik.org/course/2152) — 11 hours      
       - [Анализ данных в R](https://stepik.org/cert/164346?auth=registration) — 21 hours
       - [Анализ данных в R 2](https://stepik.org/cert/220922?auth=registration) — 26 hours
       - [Основы программирования на R](https://stepik.org/cert/229847?auth=registration) — 18 hours
